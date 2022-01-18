@@ -1,0 +1,21 @@
+{
+  "name": "@creativecommons/cc-assets",
+  "version": "0.1.0",
+  "description": "Assets used across Creative Commons projects.",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creativecommons/cc-assets.git"
+  },
+  "keywords": [
+    "PNG",
+    "SVG"
+  ],
+  "author": "Creative Commons",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/creativecommons/cc-assets/issues"
+  },
+  "homepage": "https://github.com/creativecommons/cc-assets#readme"
+}
