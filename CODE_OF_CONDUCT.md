@@ -1,7 +1,7 @@
 # Contributor Code of Conduct
 
 The Creative Commons team is committed to fostering a welcoming community. This
-project, CC Vocabulary, and all other Creative Commons open source projects are
+project, CC Assets, and all other Creative Commons open source projects are
 governed by our [Code of Conduct][code_of_conduct]. Please report unacceptable
 behavior to [conduct@creativecommons.org][email_address] per our
 [reporting guidelines][reporting_guide].
