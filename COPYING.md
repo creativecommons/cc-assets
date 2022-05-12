@@ -1,9 +1,4 @@
-# Creative Commons assets
-
-This project contains image assets used across Creative Commons projects.
-
-
-##  Copying
+# Copying
 
 The icons, images, and logos contained within this repository are for use under
 the **[Creative Commons Trademark Policy][policies-trademark]**. They are
